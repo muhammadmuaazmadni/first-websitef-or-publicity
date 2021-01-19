@@ -1,0 +1,41 @@
+body{
+min-width:20px ;
+background-color: lightgreen;
+}
+
+.img{
+    height: 600px;
+    width: 90%;
+    margin-left: 70px;
+}
+h1{
+    color: brown;
+}
+h3{
+    color: blue;
+}
+.img2{
+    height: 300px;
+    width: 33%;
+    box-shadow: 3px 3px 3px 3px brown;
+    /* border: 2px solid; */
+    /* margin-left: 50px; */
+    
+}
+h1{
+    text-align: center;
+}
+video{
+    height: 500px;
+    width: 33%;
+    box-shadow: 2px 2px 2px 2px cyan;
+}
+.img3{
+width: 50%;
+height: 500px;
+}
+p{
+    text-align: center;
+    color: darkblue;
+    font-size: 20px;
+}
