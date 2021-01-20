@@ -6,6 +6,9 @@ background-color: lightgreen;
     display: flex;
     margin-left: 30px;
     justify-content: space-around;
+    background-color: cornflowerblue;
+    width: 90%;
+    margin-left: 70px;
 }
 button{
     width: 150px;
@@ -40,8 +43,12 @@ h3{
     width: 40%;
     background-color: crimson;
 }
+.container{
+    background-color: darkkhaki;
+}
 h1{
     text-align: center;
+    
 }
 video{
     height: 500px;
